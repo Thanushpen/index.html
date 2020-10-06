@@ -8,12 +8,12 @@
 </head>
 
 <body>
-  <div id="content">
-<header>
+ <div>
+  <header>
    <!-- logo -->
    <div class="logo-box"> <img src="https://byui-cit.github.io/wdd130/resources/images/dryoarlogo.png" alt="Dry Oar Adventure Logo"  width="150" height="150"/> </div>
           <!-- nav bar --> 
-             <nav>
+          <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="DryOar.html">Dry Oar</a></li>
@@ -21,12 +21,10 @@
                 <li><a href="aboutme.html">About Me</a></li>
                 <li><a href="site-plan.html">Site Plan</a></li>
                 <li><a href="resources.html">Resources</a></li>
-         </ul>
+           </ul>
         </nav>
   </header>
-   
-        
-  <main>
+     <main>
        <!-- banner -->
     <div class="banner-box"> <img src="https://byui-cit.github.io/wdd130/resources/images/salmon-kayak-banner1.jpg" alt="Dry Oar">  </div>
     
@@ -54,7 +52,7 @@
     <!-- Third paragraph and image-->  
       
   <section class="home-paragraph-3"> 
-    <h2>join with us.</h2> 
+    <h3>join with us.</h3> 
       
       <p>
         Call our Adventure agent for more details : <a href="https://laced-muddy-tilapia.glitch.me/Booknow!.html" target="_blank">Book Now!</a>
@@ -69,20 +67,19 @@
   </section> 
      </div>
       <!-- Footer -->
+  </main>
   <footer>
       
       <p> &copy; 2020 Dry Oar Adventures  - Thanush Ganesh </p>
       
-      <nav>
+      
   <div class="social">
     <a target="_blank" href="https://www.facebook.com/"><img src="https://cdn.glitch.com/0d467254-2007-4464-8e80-6d12a699c713%2Ffacebook.png?v=1601985781749" alt="Facebook icon"/> </a>
     <a target="_blank" href="https://www.instagram.com/"><img src="https://cdn.glitch.com/0d467254-2007-4464-8e80-6d12a699c713%2Finstagram.png?v=1601986776182" alt="Instagram icon"/> </a>
     <a target="_blank" href="https://twitter.com/"><img src="https://cdn.glitch.com/0d467254-2007-4464-8e80-6d12a699c713%2Ftwitter.png?v=1601988248184" alt="Tweeter icon"/> </a>
   </div>
-     </nav>
-      
-    </footer>
-   </main> 
+     
+  </footer>
   </div>
- </body>
+  </body>
 </html>
